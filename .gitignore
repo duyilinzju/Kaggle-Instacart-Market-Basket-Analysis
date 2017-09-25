@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# data
+*.csv
+*.plk
+*.pickle
+*.pkl
+
+# draft for report
+ignore_/
+

@@ -2,7 +2,7 @@
 
 Solution to the Kaggle Competition: [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis) 
 
-### Summary Report ([pdf](.summary_report.pdf))
+### Summary Report ([pdf](summary_report.pdf))
 
 ### Dataset
 The dataset is an open-source dataset provided by Instacart.
